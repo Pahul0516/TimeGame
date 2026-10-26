@@ -1,7 +1,5 @@
 ﻿# TimeGame
 
-<img src="public/time_icon.png" alt="TimeGame icon" width="80" />
-
 A small learning project built to practice React refs, effects, and portals through a game that tests your sense of time.
 
 ## About the app
